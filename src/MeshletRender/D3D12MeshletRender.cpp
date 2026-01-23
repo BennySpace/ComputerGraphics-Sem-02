@@ -12,7 +12,7 @@
 #include "stdafx.h"
 #include "D3D12MeshletRender.h"
 
-const wchar_t* D3D12MeshletRender::c_meshFilename = L"..\\Assets\\path_to_file.bin";
+const wchar_t* D3D12MeshletRender::c_meshFilename = L"..\\Assets\\McLaren MP4_5.bin";
 
 const wchar_t* D3D12MeshletRender::c_meshShaderFilename = L"MeshletMS.cso";
 const wchar_t* D3D12MeshletRender::c_pixelShaderFilename = L"MeshletPS.cso";
